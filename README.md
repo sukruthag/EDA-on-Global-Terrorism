@@ -1,7 +1,10 @@
 # EDA-on-Global-Terrorism
 This Notebook Addresses the following:
+
 Perform EDA on dataset 'Global Terrorism'
+
 As a security/defence analyst, try to find out the hot zone of terrorism
+
 What all security issues and insights you can derive by EDA?
 
 This picture contains the graphs that have been obtained on performing the analysis. 
